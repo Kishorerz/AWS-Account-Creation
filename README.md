@@ -37,26 +37,26 @@ This experiment involves creating an AWS account, configuring security settings 
 #### This is root user
 ![alt text](img/4.png)
 
- ### IAM USER:
- ### Steps to create a new User
- #### 1. Click on the IAM section to create a new user
+### IAM USER:
+### Steps to create a new User
+#### 1. Click on the IAM section to create a new user
 ![alt text](img/4.1.png)
 
-#### 2.Click on users to create a new user.
+#### 2. Click on users to create a new user.
 ![alt text](img/5.png)
-#### 3.Click on Create New user.
+#### 3. Click on Create New user.
 ![alt text](img/6.png)
-#### 4.Click Next.
+#### 4. Click Next.
 ![alt text](img/7.png)
 #### 5. Select the first option
 ![alt text](img/8.png)
-#### 6.Create New User
+#### 6. Create New User
 ![alt text](img/9.png)
-#### 7.Now the user is Created and we Have to set permissions 
+#### 7. Now the user is Created and we Have to set permissions 
 ![alt text](img/10.png)
-#### 8.Click on security Credientials
+#### 8. Click on security Credientials
 ![alt text](img/11.png)
-#### 9.Click on enable Console
+#### 9. Click on enable Console
 ![alt text](img/12.png)
 #### 10. Create a password and copy the url for ur user account 
 ![alt text](img/13.png)
