@@ -8,24 +8,26 @@ This experiment involves creating an AWS account, configuring security settings 
 
 ## ALGORITHM :
 
- ### Step 1:
+ #### Step 1:
  Create an AWS Account </br>
- ### Step 2:
+ #### Step 2:
  Log In as Root User </br>
- ### Step 3:
+ #### Step 3:
  Open IAM Management Console</br>
- ### Step 4:
+ #### Step 4:
  Add a New IAM User</br>
- ### Step 5:
+ #### Step 5:
  Configure IAM User Login</br>
- ### Step 6:
+ #### Step 6:
  Set Permissions for IAM User</br>
- ### Step 7:
+ #### Step 7:
  Review and Create IAM User</br>
 
 ### REG NO : 212223240072
 ### NAME   : Kishor Kumar B.
+  
 
+  
 ## OUTPUT
 
 ### ROOT USER:
